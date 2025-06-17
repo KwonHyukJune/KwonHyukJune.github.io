@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Kwon Hyuk June IT Technical Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kwon Hyuk June"
+name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://KwonHyukJune.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
